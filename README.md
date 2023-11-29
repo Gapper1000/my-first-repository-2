@@ -64,3 +64,11 @@ Run tests:
 ```sh
 pytest
 ```
+
+## Web APP
+
+Run the web app (then view in the browser at http://localhost:5000/):
+
+```sh
+FLASK_APP=web_app flask run
+```
